@@ -7,9 +7,15 @@ These are examples of how to fetch data from the database using SQL commands. I 
 • Processing Multiple Tables
 
 • Relationships
+
 • Aggregate functions
+
 • Comparison
+
 • INNER JOIN
+
 • LEFT JOIN
+
 • RIGHT JOIN
+
 • Sub-queries 
